@@ -1,3 +1,7 @@
+/*
+Сок.
+ */
+
 package coffeeMachine;
 
 public class Juice extends Beverages {
