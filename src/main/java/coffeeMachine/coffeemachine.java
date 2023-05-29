@@ -1,3 +1,7 @@
+/*
+Методы поиска и продажи напитков.
+ */
+
 package coffeeMachine;
 
 import java.util.ArrayList;
