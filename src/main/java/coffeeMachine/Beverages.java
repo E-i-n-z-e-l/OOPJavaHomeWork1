@@ -1,3 +1,7 @@
+/*
+Базовые товары - вода.
+ */
+
 package coffeeMachine;
 
 public class Beverages { // Используем (private) чтобы нельзя было менять хар-ки напитков;
