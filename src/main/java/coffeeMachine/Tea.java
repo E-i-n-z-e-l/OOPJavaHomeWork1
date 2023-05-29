@@ -1,3 +1,8 @@
+/*
+Чай.
+ */
+
+
 package coffeeMachine;
 
 public class Tea extends Beverages{
